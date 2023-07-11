@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3310127-5d43-4341-862c-42253ecd2219" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/pg_stat_tmp/db_0.stat" beforeDir="false" afterPath="$PROJECT_DIR$/data/pg_stat_tmp/db_0.stat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pg_stat_tmp/db_13465.stat" beforeDir="false" afterPath="$PROJECT_DIR$/data/pg_stat_tmp/db_13465.stat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/pg_stat_tmp/db_16384.stat" beforeDir="false" afterPath="$PROJECT_DIR$/data/pg_stat_tmp/db_16384.stat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/pg_stat_tmp/global.stat" beforeDir="false" afterPath="$PROJECT_DIR$/data/pg_stat_tmp/global.stat" afterDir="false" />
     </list>
@@ -95,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689085417671</updated>
-      <workItem from="1689085417679" duration="5975000" />
+      <workItem from="1689085417679" duration="6304000" />
     </task>
     <servers />
   </component>
